@@ -1,6 +1,5 @@
 # MSc Data Science — AM41PR Research Project
-## Student Satisfaction and Graduate Outcomes in UK Universities: A Multi-Dimensional Analysis of Public Data (2019–2024)
-
+## Exploring Public Data on UK Universities
 ---
 
 ## Repository Structure
