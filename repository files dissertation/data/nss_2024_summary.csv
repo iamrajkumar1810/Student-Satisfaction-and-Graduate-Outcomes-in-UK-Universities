@@ -1,0 +1,101 @@
+UKPRN,Provider_name,Question,Question_text,Theme,AgreePct,DisagreePct,n_respondents,CAH1,CAH1_label,Year
+10007774,University of Birmingham,Q1,How good are staff at explaining things?,Teaching on my course,84.2,15.8,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q2,How often does your course challenge you to achieve your best work?,Teaching on my course,81.5,18.5,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q3,How often is your course intellectually stimulating?,Teaching on my course,83.1,16.9,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q4,How much opportunity are you given to explore ideas or concepts in depth?,Learning opportunities,80.4,19.6,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q5,How well does your course develop your knowledge and skills?,Learning opportunities,82.7,17.3,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q6,How well does your course develop your ability to work independently?,Learning opportunities,79.8,20.2,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,73.1,26.9,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q8,How fair is the marking and assessment on your course?,Assessment and feedback,74.5,25.5,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q9,How promptly have you received feedback on your work?,Assessment and feedback,70.2,29.8,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q10,How well does feedback on your work help you to improve?,Assessment and feedback,72.8,27.2,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q11,How easy is it to contact teaching staff when you need to?,Academic support,86.1,13.9,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q12,How well have teaching staff supported your learning?,Academic support,85.4,14.6,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q13,How well organised is your course?,Organisation and management,78.9,21.1,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q14,How well does your institution communicate important information to you?,Organisation and management,79.3,20.7,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q15,How well have the library resources supported your learning?,Learning resources,88.7,11.3,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q16,How easy is it to access subject specific resources?,Learning resources,86.2,13.8,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,72.1,27.9,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q18,To what extent are students opinions about the course valued by staff?,Student voice,73.5,26.5,1842,CAH01,Medicine and dentistry,2024
+10007774,University of Birmingham,Q19,How clear is it that students feedback on the course is acted on?,Student voice,61.8,38.2,1842,CAH01,Medicine and dentistry,2024
+10007806,University of Bristol,Q1,How good are staff at explaining things?,Teaching on my course,85.9,14.1,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q2,How often does your course challenge you to achieve your best work?,Teaching on my course,83.4,16.6,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q3,How often is your course intellectually stimulating?,Teaching on my course,84.7,15.3,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,74.3,25.7,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q8,How fair is the marking and assessment on your course?,Assessment and feedback,75.1,24.9,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q9,How promptly have you received feedback on your work?,Assessment and feedback,71.6,28.4,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q11,How easy is it to contact teaching staff when you need to?,Academic support,87.2,12.8,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q12,How well have teaching staff supported your learning?,Academic support,86.5,13.5,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q15,How well have the library resources supported your learning?,Learning resources,89.1,10.9,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q16,How easy is it to access subject specific resources?,Learning resources,87.4,12.6,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,73.9,26.1,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q18,To what extent are students opinions about the course valued by staff?,Student voice,74.8,25.2,2103,CAH11,Computing,2024
+10007806,University of Bristol,Q19,How clear is it that students feedback on the course is acted on?,Student voice,63.2,36.8,2103,CAH11,Computing,2024
+10007814,University of Cambridge,Q1,How good are staff at explaining things?,Teaching on my course,91.2,8.8,3456,CAH01,Medicine and dentistry,2024
+10007814,University of Cambridge,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,76.4,23.6,3456,CAH01,Medicine and dentistry,2024
+10007814,University of Cambridge,Q11,How easy is it to contact teaching staff when you need to?,Academic support,88.3,11.7,3456,CAH01,Medicine and dentistry,2024
+10007814,University of Cambridge,Q15,How well have the library resources supported your learning?,Learning resources,92.1,7.9,3456,CAH01,Medicine and dentistry,2024
+10007814,University of Cambridge,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,70.5,29.5,3456,CAH01,Medicine and dentistry,2024
+10007814,University of Cambridge,Q19,How clear is it that students feedback on the course is acted on?,Student voice,59.7,40.3,3456,CAH01,Medicine and dentistry,2024
+10000291,Aston University,Q1,How good are staff at explaining things?,Teaching on my course,86.8,13.2,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q2,How often does your course challenge you to achieve your best work?,Teaching on my course,84.1,15.9,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,75.9,24.1,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q8,How fair is the marking and assessment on your course?,Assessment and feedback,77.2,22.8,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q11,How easy is it to contact teaching staff when you need to?,Academic support,88.4,11.6,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q15,How well have the library resources supported your learning?,Learning resources,87.6,12.4,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,76.3,23.7,1654,CAH15,Social sciences,2024
+10000291,Aston University,Q19,How clear is it that students feedback on the course is acted on?,Student voice,64.9,35.1,1654,CAH15,Social sciences,2024
+10007830,University of Exeter,Q1,How good are staff at explaining things?,Teaching on my course,87.5,12.5,1923,CAH19,History and archaeology,2024
+10007830,University of Exeter,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,74.8,25.2,1923,CAH19,History and archaeology,2024
+10007830,University of Exeter,Q11,How easy is it to contact teaching staff when you need to?,Academic support,86.9,13.1,1923,CAH19,History and archaeology,2024
+10007830,University of Exeter,Q15,How well have the library resources supported your learning?,Learning resources,88.2,11.8,1923,CAH19,History and archaeology,2024
+10007830,University of Exeter,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,75.1,24.9,1923,CAH19,History and archaeology,2024
+10007830,University of Exeter,Q19,How clear is it that students feedback on the course is acted on?,Student voice,62.4,37.6,1923,CAH19,History and archaeology,2024
+10004063,Leeds Beckett University,Q1,How good are staff at explaining things?,Teaching on my course,89.1,10.9,2341,CAH24,Media journalism and communications,2024
+10004063,Leeds Beckett University,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,78.3,21.7,2341,CAH24,Media journalism and communications,2024
+10004063,Leeds Beckett University,Q11,How easy is it to contact teaching staff when you need to?,Academic support,90.2,9.8,2341,CAH24,Media journalism and communications,2024
+10004063,Leeds Beckett University,Q15,How well have the library resources supported your learning?,Learning resources,86.4,13.6,2341,CAH24,Media journalism and communications,2024
+10004063,Leeds Beckett University,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,78.4,21.6,2341,CAH24,Media journalism and communications,2024
+10004063,Leeds Beckett University,Q19,How clear is it that students feedback on the course is acted on?,Student voice,67.1,32.9,2341,CAH24,Media journalism and communications,2024
+10007853,University of Leeds,Q1,How good are staff at explaining things?,Teaching on my course,84.3,15.7,2876,CAH09,Mathematical sciences,2024
+10007853,University of Leeds,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,72.9,27.1,2876,CAH09,Mathematical sciences,2024
+10007853,University of Leeds,Q11,How easy is it to contact teaching staff when you need to?,Academic support,84.7,15.3,2876,CAH09,Mathematical sciences,2024
+10007853,University of Leeds,Q15,How well have the library resources supported your learning?,Learning resources,89.3,10.7,2876,CAH09,Mathematical sciences,2024
+10007853,University of Leeds,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,71.6,28.4,2876,CAH09,Mathematical sciences,2024
+10007853,University of Leeds,Q19,How clear is it that students feedback on the course is acted on?,Student voice,60.8,39.2,2876,CAH09,Mathematical sciences,2024
+10007880,University of Manchester,Q1,How good are staff at explaining things?,Teaching on my course,82.1,17.9,4512,CAH10,Engineering and technology,2024
+10007880,University of Manchester,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,70.4,29.6,4512,CAH10,Engineering and technology,2024
+10007880,University of Manchester,Q11,How easy is it to contact teaching staff when you need to?,Academic support,83.6,16.4,4512,CAH10,Engineering and technology,2024
+10007880,University of Manchester,Q15,How well have the library resources supported your learning?,Learning resources,88.9,11.1,4512,CAH10,Engineering and technology,2024
+10007880,University of Manchester,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,69.7,30.3,4512,CAH10,Engineering and technology,2024
+10007880,University of Manchester,Q19,How clear is it that students feedback on the course is acted on?,Student voice,57.3,42.7,4512,CAH10,Engineering and technology,2024
+10007919,University of Sheffield,Q1,How good are staff at explaining things?,Teaching on my course,85.6,14.4,1987,CAH22,Education and teaching,2024
+10007919,University of Sheffield,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,76.8,23.2,1987,CAH22,Education and teaching,2024
+10007919,University of Sheffield,Q11,How easy is it to contact teaching staff when you need to?,Academic support,87.9,12.1,1987,CAH22,Education and teaching,2024
+10007919,University of Sheffield,Q15,How well have the library resources supported your learning?,Learning resources,87.1,12.9,1987,CAH22,Education and teaching,2024
+10007919,University of Sheffield,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,77.2,22.8,1987,CAH22,Education and teaching,2024
+10007919,University of Sheffield,Q19,How clear is it that students feedback on the course is acted on?,Student voice,66.4,33.6,1987,CAH22,Education and teaching,2024
+10007163,Oxford Brookes University,Q1,How good are staff at explaining things?,Teaching on my course,88.9,11.1,1432,CAH17,Architecture building and planning,2024
+10007163,Oxford Brookes University,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,77.4,22.6,1432,CAH17,Architecture building and planning,2024
+10007163,Oxford Brookes University,Q11,How easy is it to contact teaching staff when you need to?,Academic support,89.6,10.4,1432,CAH17,Architecture building and planning,2024
+10007163,Oxford Brookes University,Q15,How well have the library resources supported your learning?,Learning resources,86.8,13.2,1432,CAH17,Architecture building and planning,2024
+10007163,Oxford Brookes University,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,76.9,23.1,1432,CAH17,Architecture building and planning,2024
+10007163,Oxford Brookes University,Q19,How clear is it that students feedback on the course is acted on?,Student voice,65.7,34.3,1432,CAH17,Architecture building and planning,2024
+10006427,Nottingham Trent University,Q1,How good are staff at explaining things?,Teaching on my course,90.1,9.9,2198,CAH16,Law,2024
+10006427,Nottingham Trent University,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,79.2,20.8,2198,CAH16,Law,2024
+10006427,Nottingham Trent University,Q11,How easy is it to contact teaching staff when you need to?,Academic support,91.3,8.7,2198,CAH16,Law,2024
+10006427,Nottingham Trent University,Q15,How well have the library resources supported your learning?,Learning resources,88.5,11.5,2198,CAH16,Law,2024
+10006427,Nottingham Trent University,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,78.6,21.4,2198,CAH16,Law,2024
+10006427,Nottingham Trent University,Q19,How clear is it that students feedback on the course is acted on?,Student voice,68.3,31.7,2198,CAH16,Law,2024
+10007767,University of Bath,Q1,How good are staff at explaining things?,Teaching on my course,88.4,11.6,1765,CAH08,Biological and sport sciences,2024
+10007767,University of Bath,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,75.6,24.4,1765,CAH08,Biological and sport sciences,2024
+10007767,University of Bath,Q11,How easy is it to contact teaching staff when you need to?,Academic support,87.1,12.9,1765,CAH08,Biological and sport sciences,2024
+10007767,University of Bath,Q15,How well have the library resources supported your learning?,Learning resources,89.7,10.3,1765,CAH08,Biological and sport sciences,2024
+10007767,University of Bath,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,74.3,25.7,1765,CAH08,Biological and sport sciences,2024
+10007767,University of Bath,Q19,How clear is it that students feedback on the course is acted on?,Student voice,62.9,37.1,1765,CAH08,Biological and sport sciences,2024
+10005261,University of the Arts London,Q1,How good are staff at explaining things?,Teaching on my course,86.2,13.8,3241,CAH25,Design and creative performing arts,2024
+10005261,University of the Arts London,Q7,How well have the assignments and assessments allowed you to demonstrate what you have learned?,Assessment and feedback,76.1,23.9,3241,CAH25,Design and creative performing arts,2024
+10005261,University of the Arts London,Q11,How easy is it to contact teaching staff when you need to?,Academic support,85.8,14.2,3241,CAH25,Design and creative performing arts,2024
+10005261,University of the Arts London,Q15,How well have the library resources supported your learning?,Learning resources,85.4,14.6,3241,CAH25,Design and creative performing arts,2024
+10005261,University of the Arts London,Q17,To what extent do you get the right opportunities to give feedback on your course?,Student voice,79.3,20.7,3241,CAH25,Design and creative performing arts,2024
+10005261,University of the Arts London,Q19,How clear is it that students feedback on the course is acted on?,Student voice,68.7,31.3,3241,CAH25,Design and creative performing arts,2024
